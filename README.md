@@ -32,12 +32,12 @@
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"></br>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"></br>
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></br>
 

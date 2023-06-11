@@ -7,19 +7,24 @@
 안녕하세요!</br>
 열정 가득한 예비 개발자 황민호입니다.</br>
 꾸준함은 제가 자랑할 수 있는 저의 무기입니다.</br>
-웹 개발, 전자제품, 헬스, 패션에 관심이 많습니다. </br>
-열심히 하겠습니다!
+웹 개발, 전자제품, 헬스, 패션, 인테리어에 관심이 많습니다. </br>
 
 
 </br>
-  
+<h3 align="center"> 📚 Want to learn 📚  </h3>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+</p>
+</br>
 <h3 align="center"> 👨🏻‍💻 Portfolio 👨🏻‍💻  </h3>
 <p>
+<a href="https://github.com/hellosonic-r">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+</a>
 <img src="https://img.shields.io/badge/Tistory-ED5D47?style=flat&logo=Tistory&logoColor=white">
 <img src="https://img.shields.io/badge/정보처리기사-207BEA?style=flat">
 </p>
-  
+  a
 </br>
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>

@@ -21,10 +21,12 @@
 <a href="https://github.com/hellosonic-r">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 </a>
+<a href="https://"https://hellosonic.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-ED5D47?style=flat&logo=Tistory&logoColor=white">
+</a>                                                                                          
 <img src="https://img.shields.io/badge/정보처리기사-207BEA?style=flat">
 </p>
-  a
+  
 </br>
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>

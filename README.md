@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 </p>
 </br>
-<h3 align="center"> 👨🏻‍💻 Portfolio 👨🏻‍💻  </h3>
+<h3 align="center"> 👨🏻‍💻 Portfolio & SNS 👨🏻‍💻  </h3>
 <p>
 <a href="https://github.com/hellosonic-r">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
@@ -25,6 +25,16 @@
 <img src="https://img.shields.io/badge/Tistory-ED5D47?style=flat&logo=Tistory&logoColor=white">
 </a>                                                                                          
 <img src="https://img.shields.io/badge/정보처리기사-207BEA?style=flat">
+</br>
+<a href="mailto:mmmh__@naver.com">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mmmh__@naver.com"/>
+</a>
+<a href="mailto:hellommmh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=hellommmh@gmail.com"/>
+</a>     
+<a href="https://www.instagram.com/heymh_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
+</a>                                                                 
 </p>
   
 </br>

@@ -68,7 +68,6 @@
   
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellosonic)](https://solved.ac/{handle})
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hellosonic&theme=warm)
 
 </div>
 

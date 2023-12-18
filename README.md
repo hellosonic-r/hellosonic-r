@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <h3 align="center"> 🙌 Introduction 🙌  </h3>
@@ -8,7 +6,6 @@
 열정 가득한 예비 개발자 황민호입니다.</br>
 꾸준함은 제가 자랑할 수 있는 저의 무기입니다.</br>
 웹 개발, 전자제품, 헬스, 패션, 인테리어에 관심이 많습니다. </br>
-
 
 </br>
 <h3 align="center"> 📚 Want to learn 📚  </h3>
@@ -65,19 +62,15 @@
 </p>
 </br>
 <h3 align="center"> 🥇 Baekjoon Tier 🥇 </h3>
-  
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellosonic)](https://solved.ac/{handle})
 
 </div>
 
-
-
 </br>
 </br>
-
-
-
+<br/>
 
 <!--
 **hellosonic-r/hellosonic-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

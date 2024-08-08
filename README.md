@@ -24,7 +24,7 @@
 <a href="mailto:hellommmh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=hellommmh@gmail.com"/>
 </a>     
-<a href="https://www.instagram.com/heymh_">
+<a href="https://www.instagram.com/hwangmmmino">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
 </a>                                                                 
 </p>
